@@ -1,2 +1,2 @@
-class phpdevel::repos {
+class phpdev::repos {
 }

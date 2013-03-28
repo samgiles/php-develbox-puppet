@@ -1,4 +1,4 @@
-class phpdevel::install {
+class phpdev::install {
 	package {[
 		'pcre-devel',
 		'bzip2-devel',

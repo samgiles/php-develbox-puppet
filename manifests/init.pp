@@ -1,3 +1,3 @@
 node default {
-	require phpdevel
+	require phpdev
 }
