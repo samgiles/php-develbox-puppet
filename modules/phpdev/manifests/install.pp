@@ -26,6 +26,7 @@ class phpdev::install {
 		'bison',
 		'flex',
 		'httpd-devel',
+		'httpd',
 		'gdb'
 	]: ensure => present }
 }
