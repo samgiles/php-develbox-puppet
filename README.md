@@ -5,7 +5,7 @@ Development box definition for php-src and extension development
 
 ## Usage
 
-Once you have a blank VM  (You may need to tweak bootstrap for non Enterprise Linux distros), run `./setup.sh <hostname>` and it should automatically set up the VM for you.  Tested and works on CentOS 6.3+
+Once you have a blank installation of an Enterprise Linux distro (You may need to tweak bootstrap for non Enterprise Linux distros), run `./setup.sh <hostname>` and it should automatically set up the machine ready for development for you.  Tested and works on CentOS 6.3+
 
 
 If you find it useful feel free to fork etc.
