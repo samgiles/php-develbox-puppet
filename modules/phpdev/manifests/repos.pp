@@ -1,0 +1,2 @@
+class phpdev::repos {
+}
