@@ -25,6 +25,7 @@ class phpdev::install {
 		'autoconf',
 		'bison',
 		'flex',
-		'httpd-devel'
+		'httpd-devel',
+		'gdb'
 	]: ensure => present }
 }
