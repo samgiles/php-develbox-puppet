@@ -1,3 +1,4 @@
 node default {
-	require phpdev
+  include stdlib
+  require phpdev
 }
