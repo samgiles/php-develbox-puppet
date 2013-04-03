@@ -18,7 +18,6 @@ class phpdev::install {
 		'libicu-devel',
 		'readline-devel',
 		'recode-devel',
-		'json-c-devel',
 		'vim',
 		'git',
 		'make',
